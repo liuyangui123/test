@@ -1,3 +1,3 @@
 public class wy {
-    system.out.println();
+   // system.out.println();
 }
